@@ -1,0 +1,23 @@
+==========================================
+     LOG ANALYSIS REPORT (PYTHON)
+==========================================
+Analyzed file: system_health.log
+Generated on: 2025-09-30 08:01:32.584150
+==========================================
+
+=== SUMMARY ===
+Total log entries: 6
+
+=== ENTRY TYPES ===
+Info entries: 4
+Error entries: 0
+
+=== RECENT ACTIVITIES (Last 5) ===
+2025-09-30 08:01:21 - CPU Usage: 6.9%
+2025-09-30 08:01:21 - Memory check completed
+2025-09-30 08:01:21 - Disk check completed
+2025-09-30 08:01:21 - System uptime: up 2 hours, 45 minutes
+2025-09-30 08:01:21 - System health check completed successfully
+
+=== CPU USAGE SAMPLES ===
+2025-09-30 08:01:21 - CPU Usage: 6.9%
